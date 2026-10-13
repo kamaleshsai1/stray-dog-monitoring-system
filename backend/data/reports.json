@@ -1,0 +1,24 @@
+[
+  {
+    "id": "REP-501",
+    "reporterName": "Sai Teja (Student)",
+    "reporterPhone": "+91 99887 76655",
+    "category": "Injured Stray Sighting",
+    "location": "Near Pharmacy Block Gate 3",
+    "description": "Saw an un-tagged indie dog limping on front right leg. Provided clean water.",
+    "status": "Investigating",
+    "timestamp": "Today 11:20 AM",
+    "priority": "High"
+  },
+  {
+    "id": "REP-502",
+    "reporterName": "Faculty Staff Housing",
+    "reporterPhone": "+91 98451 22334",
+    "category": "Aggressive Pack Barking",
+    "location": "Backroad Perimeter Fence",
+    "description": "Barking towards delivery motorbikes at night around 9:30 PM. Requesting field patrol review.",
+    "status": "Resolved (Patrol Verified: Stray dogs chasing outside intruder)",
+    "timestamp": "Yesterday 9:45 PM",
+    "priority": "Medium"
+  }
+]

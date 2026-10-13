@@ -1,0 +1,46 @@
+[
+  {
+    "id": "NBH",
+    "name": "North Block (NBH Hostel - Top Box)",
+    "center": [
+      13.2887,
+      77.5985
+    ],
+    "dogCount": 3,
+    "riskLevel": "Low",
+    "sterilizationRate": "100%"
+  },
+  {
+    "id": "SBH",
+    "name": "South Block (SBH Hostel - Bottom Box)",
+    "center": [
+      13.28805,
+      77.59848
+    ],
+    "dogCount": 3,
+    "riskLevel": "Low",
+    "sterilizationRate": "100%"
+  },
+  {
+    "id": "GITAM-MAIN",
+    "name": "GITAM University Main Building (Academic Block)",
+    "center": [
+      13.2873,
+      77.5954
+    ],
+    "dogCount": 2,
+    "riskLevel": "Low",
+    "sterilizationRate": "100%"
+  },
+  {
+    "id": "STAFF",
+    "name": "Staff Quarters & Faculty Housing",
+    "center": [
+      13.28865,
+      77.5964
+    ],
+    "dogCount": 2,
+    "riskLevel": "Low",
+    "sterilizationRate": "100%"
+  }
+]

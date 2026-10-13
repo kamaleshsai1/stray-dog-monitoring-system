@@ -1,0 +1,38 @@
+[
+  {
+    "id": "OP-101",
+    "type": "Veterinary Health Checkup",
+    "targetDogId": "D02",
+    "dogName": "Buddy",
+    "zone": "SBH",
+    "priority": "Medium",
+    "status": "Scheduled",
+    "scheduledDate": "2026-10-18",
+    "assignedTeam": "Mobile Vet Unit 01 (Dr. Sharma)",
+    "notes": "Routine annual booster and general health inspection outside South Block (SBH)."
+  },
+  {
+    "id": "OP-102",
+    "type": "Animal Welfare Inspection",
+    "targetDogId": "D07",
+    "dogName": "Bruno",
+    "zone": "NBH",
+    "priority": "High",
+    "status": "En Route",
+    "scheduledDate": "2026-10-14",
+    "assignedTeam": "Campus Veterinary Volunteer Cell",
+    "notes": "Patrol checkup near North Block (NBH) and North Lawn perimeter."
+  },
+  {
+    "id": "OP-103",
+    "type": "Nutrition & Welfare Check",
+    "targetDogId": "D01",
+    "dogName": "Copper",
+    "zone": "GITAM-MAIN",
+    "priority": "Low",
+    "status": "In Progress",
+    "scheduledDate": "2026-10-15",
+    "assignedTeam": "Animal Caretaker Team",
+    "notes": "Deworming booster check near GITAM University Main Building entrance."
+  }
+]

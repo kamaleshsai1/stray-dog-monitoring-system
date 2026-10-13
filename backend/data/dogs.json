@@ -1,0 +1,749 @@
+[
+  {
+    "id": "D01",
+    "code": "D1",
+    "name": "Copper",
+    "gender": "Male",
+    "age": "3.2 years",
+    "breed": "Indian Pariah (Indie)",
+    "color": "Reddish Brown / Copper",
+    "zone": "GITAM-MAIN",
+    "locationName": "GITAM University Main Building (Entrance Steps)",
+    "latitude": 13.28745,
+    "longitude": 77.59535,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-08-14",
+    "healthScore": 95,
+    "healthStatus": "Healthy & Active",
+    "temperament": "Friendly & Calm",
+    "collar": {
+      "active": true,
+      "battery": 92,
+      "lastPing": "2 mins ago"
+    },
+    "ownerOrCaretaker": "Campus Animal Welfare Volunteer Cell",
+    "caretakerPhone": "+91 98450 12345",
+    "qrCodeId": "SD-GITAM-D01-COPPER",
+    "imageUrl": "/dogs/d1.jpg",
+    "facialEmotion": "Relaxed / Resting",
+    "faceBoundingBox": [
+      0.22,
+      0.48,
+      0.58,
+      0.84
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.37,
+        0.63
+      ],
+      "rightEye": [
+        0.35,
+        0.73
+      ],
+      "snoutNose": [
+        0.49,
+        0.71
+      ],
+      "mouthLeft": [
+        0.53,
+        0.68
+      ],
+      "mouthRight": [
+        0.53,
+        0.74
+      ],
+      "leftEar": [
+        0.3,
+        0.52
+      ],
+      "rightEar": [
+        0.29,
+        0.81
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-02-10",
+        "nextDue": "2027-02-10",
+        "status": "Valid",
+        "vet": "Dr. Sharma, BBMP Vet Div"
+      },
+      {
+        "name": "DHPPiL 7-in-1",
+        "date": "2026-02-10",
+        "nextDue": "2027-02-10",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D02",
+    "code": "D2",
+    "name": "Buddy",
+    "gender": "Male",
+    "age": "2.5 years",
+    "breed": "Indie Brown Hound",
+    "color": "Light Brown",
+    "zone": "SBH",
+    "locationName": "South Block (SBH Hostel - Ground Floor Portico)",
+    "latitude": 13.288,
+    "longitude": 77.59843,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-09-02",
+    "healthScore": 94,
+    "healthStatus": "Docile & Resting",
+    "temperament": "Quiet & Gentle",
+    "collar": {
+      "active": true,
+      "battery": 88,
+      "lastPing": "1 min ago"
+    },
+    "ownerOrCaretaker": "SBH Hostel Caretakers",
+    "caretakerPhone": "+91 98450 12346",
+    "qrCodeId": "SD-GITAM-D02-BUDDY",
+    "imageUrl": "/dogs/d2.jpg",
+    "facialEmotion": "Deep Rest / Docile",
+    "faceBoundingBox": [
+      0.46,
+      0.02,
+      0.86,
+      0.28
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.63,
+        0.15
+      ],
+      "rightEye": [
+        0.6,
+        0.18
+      ],
+      "snoutNose": [
+        0.78,
+        0.2
+      ],
+      "mouthLeft": [
+        0.8,
+        0.22
+      ],
+      "mouthRight": [
+        0.78,
+        0.24
+      ],
+      "leftEar": [
+        0.5,
+        0.14
+      ],
+      "rightEar": [
+        0.68,
+        0.04
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-01-18",
+        "nextDue": "2027-01-18",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D03",
+    "code": "D3",
+    "name": "Shadow",
+    "gender": "Male",
+    "age": "1.8 years",
+    "breed": "Indie Black Hound",
+    "color": "Jet Black",
+    "zone": "SBH",
+    "locationName": "South Block (SBH Hostel - Courtyard Pathway)",
+    "latitude": 13.28785,
+    "longitude": 77.59835,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-11-20",
+    "healthScore": 96,
+    "healthStatus": "Energetic & Alert",
+    "temperament": "Playful & Watchful",
+    "collar": {
+      "active": true,
+      "battery": 84,
+      "lastPing": "Just now"
+    },
+    "ownerOrCaretaker": "Student Animal Helpers Cell",
+    "caretakerPhone": "+91 98450 12347",
+    "qrCodeId": "SD-GITAM-D03-SHADOW",
+    "imageUrl": "/dogs/d3.jpg",
+    "facialEmotion": "Attentive Stance",
+    "faceBoundingBox": [
+      0.2,
+      0.48,
+      0.52,
+      0.76
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.34,
+        0.61
+      ],
+      "rightEye": [
+        0.32,
+        0.64
+      ],
+      "snoutNose": [
+        0.44,
+        0.51
+      ],
+      "mouthLeft": [
+        0.47,
+        0.54
+      ],
+      "mouthRight": [
+        0.46,
+        0.57
+      ],
+      "leftEar": [
+        0.24,
+        0.62
+      ],
+      "rightEar": [
+        0.3,
+        0.72
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-02-05",
+        "nextDue": "2027-02-05",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D04",
+    "code": "D4",
+    "name": "Snowy",
+    "gender": "Female",
+    "age": "3.0 years",
+    "breed": "Indie White Pointer",
+    "color": "Cream White",
+    "zone": "SBH",
+    "locationName": "South Block (SBH Hostel - Rear Lawn Corridor)",
+    "latitude": 13.28815,
+    "longitude": 77.5986,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-07-11",
+    "healthScore": 91,
+    "healthStatus": "Gentle & Observant",
+    "temperament": "Calm & Affectionate",
+    "collar": {
+      "active": true,
+      "battery": 95,
+      "lastPing": "3 mins ago"
+    },
+    "ownerOrCaretaker": "SBH Hostel Caretakers",
+    "caretakerPhone": "+91 98450 12348",
+    "qrCodeId": "SD-GITAM-D04-SNOWY",
+    "imageUrl": "/dogs/d4.jpg",
+    "facialEmotion": "Gentle & Calm",
+    "faceBoundingBox": [
+      0.15,
+      0.33,
+      0.62,
+      0.73
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.37,
+        0.44
+      ],
+      "rightEye": [
+        0.38,
+        0.55
+      ],
+      "snoutNose": [
+        0.53,
+        0.46
+      ],
+      "mouthLeft": [
+        0.58,
+        0.47
+      ],
+      "mouthRight": [
+        0.57,
+        0.52
+      ],
+      "leftEar": [
+        0.18,
+        0.37
+      ],
+      "rightEar": [
+        0.19,
+        0.7
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-03-01",
+        "nextDue": "2027-03-01",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D05",
+    "code": "D5",
+    "name": "Patch",
+    "gender": "Male",
+    "age": "4.0 years",
+    "breed": "Indie Dalmatian Mix",
+    "color": "White with Black Spots",
+    "zone": "NBH",
+    "locationName": "North Block (NBH Hostel - Front Quadrangle)",
+    "latitude": 13.28866,
+    "longitude": 77.59846,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-06-19",
+    "healthScore": 93,
+    "healthStatus": "Healthy & Relaxed",
+    "temperament": "Placid & Docile",
+    "collar": {
+      "active": true,
+      "battery": 90,
+      "lastPing": "1 min ago"
+    },
+    "ownerOrCaretaker": "NBH Hostel Management",
+    "caretakerPhone": "+91 98450 12349",
+    "qrCodeId": "SD-GITAM-D05-PATCH",
+    "imageUrl": "/dogs/d5.jpg",
+    "facialEmotion": "Quiet Resting",
+    "faceBoundingBox": [
+      0.55,
+      0.56,
+      0.96,
+      0.93
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.72,
+        0.74
+      ],
+      "rightEye": [
+        0.74,
+        0.78
+      ],
+      "snoutNose": [
+        0.85,
+        0.61
+      ],
+      "mouthLeft": [
+        0.88,
+        0.64
+      ],
+      "mouthRight": [
+        0.86,
+        0.68
+      ],
+      "leftEar": [
+        0.62,
+        0.83
+      ],
+      "rightEar": [
+        0.78,
+        0.88
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-01-22",
+        "nextDue": "2027-01-22",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D06",
+    "code": "D6",
+    "name": "Leo",
+    "gender": "Male",
+    "age": "2.8 years",
+    "breed": "Indian Pariah (Indie)",
+    "color": "Light Fawn / Tan",
+    "zone": "NBH",
+    "locationName": "North Block (NBH Hostel - Veranda & Canteen Corridor)",
+    "latitude": 13.2888,
+    "longitude": 77.5986,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-08-30",
+    "healthScore": 97,
+    "healthStatus": "Fit & Attentive",
+    "temperament": "Curious & Alert",
+    "collar": {
+      "active": true,
+      "battery": 93,
+      "lastPing": "Just now"
+    },
+    "ownerOrCaretaker": "NBH Hostel Management",
+    "caretakerPhone": "+91 98450 12350",
+    "qrCodeId": "SD-GITAM-D06-LEO",
+    "imageUrl": "/dogs/d6.jpg",
+    "facialEmotion": "Alert & Watchful",
+    "faceBoundingBox": [
+      0.13,
+      0.32,
+      0.49,
+      0.74
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.26,
+        0.48
+      ],
+      "rightEye": [
+        0.26,
+        0.58
+      ],
+      "snoutNose": [
+        0.38,
+        0.53
+      ],
+      "mouthLeft": [
+        0.44,
+        0.5
+      ],
+      "mouthRight": [
+        0.44,
+        0.56
+      ],
+      "leftEar": [
+        0.25,
+        0.37
+      ],
+      "rightEar": [
+        0.25,
+        0.69
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-02-14",
+        "nextDue": "2027-02-14",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D07",
+    "code": "D7",
+    "name": "Bruno",
+    "gender": "Male",
+    "age": "3.5 years",
+    "breed": "Indie Doberman Mix",
+    "color": "Black and Tan",
+    "zone": "NBH",
+    "locationName": "North Block (NBH Hostel - Perimeter Security Gate)",
+    "latitude": 13.28852,
+    "longitude": 77.59835,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-05-18",
+    "healthScore": 94,
+    "healthStatus": "Strong & Vigilant",
+    "temperament": "Guarding & Protective",
+    "collar": {
+      "active": true,
+      "battery": 86,
+      "lastPing": "2 mins ago"
+    },
+    "ownerOrCaretaker": "Campus Security Wardens",
+    "caretakerPhone": "+91 98450 12351",
+    "qrCodeId": "SD-GITAM-D07-BRUNO",
+    "imageUrl": "/dogs/d7.jpg",
+    "facialEmotion": "Defensive / Guarding",
+    "faceBoundingBox": [
+      0.11,
+      0.59,
+      0.37,
+      0.88
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.21,
+        0.7
+      ],
+      "rightEye": [
+        0.21,
+        0.77
+      ],
+      "snoutNose": [
+        0.29,
+        0.74
+      ],
+      "mouthLeft": [
+        0.33,
+        0.72
+      ],
+      "mouthRight": [
+        0.33,
+        0.76
+      ],
+      "leftEar": [
+        0.18,
+        0.63
+      ],
+      "rightEar": [
+        0.18,
+        0.84
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-01-30",
+        "nextDue": "2027-01-30",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D08",
+    "code": "D8",
+    "name": "Daisy",
+    "gender": "Female",
+    "age": "2.2 years",
+    "breed": "Indie Bi-color Hound",
+    "color": "White & Tan Ginger",
+    "zone": "STAFF",
+    "locationName": "Staff Quarters - Garden Lane",
+    "latitude": 13.28855,
+    "longitude": 77.5962,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-10-05",
+    "healthScore": 98,
+    "healthStatus": "Excellent Health",
+    "temperament": "Affectionate & Docile",
+    "collar": {
+      "active": true,
+      "battery": 97,
+      "lastPing": "Just now"
+    },
+    "ownerOrCaretaker": "Faculty Staff Welfare Committee",
+    "caretakerPhone": "+91 98450 12352",
+    "qrCodeId": "SD-GITAM-D08-DAISY",
+    "imageUrl": "/dogs/d8.jpg",
+    "facialEmotion": "Relaxed & Content",
+    "faceBoundingBox": [
+      0.05,
+      0.16,
+      0.35,
+      0.48
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.15,
+        0.27
+      ],
+      "rightEye": [
+        0.15,
+        0.36
+      ],
+      "snoutNose": [
+        0.25,
+        0.31
+      ],
+      "mouthLeft": [
+        0.29,
+        0.29
+      ],
+      "mouthRight": [
+        0.29,
+        0.33
+      ],
+      "leftEar": [
+        0.1,
+        0.21
+      ],
+      "rightEar": [
+        0.12,
+        0.43
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-03-05",
+        "nextDue": "2027-03-05",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D09",
+    "code": "D9",
+    "name": "Duke",
+    "gender": "Male",
+    "age": "3.8 years",
+    "breed": "Indian Pariah (Indie)",
+    "color": "Golden Tan",
+    "zone": "GITAM-MAIN",
+    "locationName": "GITAM University Administrative Circle",
+    "latitude": 13.2871,
+    "longitude": 77.5957,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-04-12",
+    "healthScore": 95,
+    "healthStatus": "Vibrant & Healthy",
+    "temperament": "Warm & Joyful",
+    "collar": {
+      "active": true,
+      "battery": 89,
+      "lastPing": "4 mins ago"
+    },
+    "ownerOrCaretaker": "Campus Animal Welfare Volunteer Cell",
+    "caretakerPhone": "+91 98450 12353",
+    "qrCodeId": "SD-GITAM-D09-DUKE",
+    "imageUrl": "/dogs/d9.jpg",
+    "facialEmotion": "Happy & Energetic",
+    "faceBoundingBox": [
+      0.07,
+      0.47,
+      0.39,
+      0.78
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.18,
+        0.59
+      ],
+      "rightEye": [
+        0.18,
+        0.67
+      ],
+      "snoutNose": [
+        0.27,
+        0.63
+      ],
+      "mouthLeft": [
+        0.34,
+        0.6
+      ],
+      "mouthRight": [
+        0.34,
+        0.66
+      ],
+      "leftEar": [
+        0.16,
+        0.52
+      ],
+      "rightEar": [
+        0.16,
+        0.74
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-02-18",
+        "nextDue": "2027-02-18",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  },
+  {
+    "id": "D10",
+    "code": "D10",
+    "name": "Biscuit",
+    "gender": "Female",
+    "age": "2.0 years",
+    "breed": "Indie Fawn Hound",
+    "color": "Warm Biscuit Tan",
+    "zone": "STAFF",
+    "locationName": "Staff Quarters - Faculty Residential Block",
+    "latitude": 13.28875,
+    "longitude": 77.5966,
+    "vaccinationStatus": "Up to date",
+    "sterilizationStatus": "Sterilized (Ear-Notched)",
+    "sterilizationDate": "2025-08-25",
+    "healthScore": 96,
+    "healthStatus": "Calm & Content",
+    "temperament": "Affectionate & Docile",
+    "collar": {
+      "active": true,
+      "battery": 91,
+      "lastPing": "1 min ago"
+    },
+    "ownerOrCaretaker": "Faculty Staff Welfare Committee",
+    "caretakerPhone": "+91 98450 12354",
+    "qrCodeId": "SD-GITAM-D10-BISCUIT",
+    "imageUrl": "/dogs/d10.jpg",
+    "facialEmotion": "Affectionate & Docile",
+    "faceBoundingBox": [
+      0.18,
+      0.4,
+      0.54,
+      0.88
+    ],
+    "facialLandmarks": {
+      "leftEye": [
+        0.33,
+        0.58
+      ],
+      "rightEye": [
+        0.33,
+        0.71
+      ],
+      "snoutNose": [
+        0.42,
+        0.66
+      ],
+      "mouthLeft": [
+        0.49,
+        0.62
+      ],
+      "mouthRight": [
+        0.49,
+        0.7
+      ],
+      "leftEar": [
+        0.26,
+        0.45
+      ],
+      "rightEar": [
+        0.26,
+        0.83
+      ]
+    },
+    "vaccines": [
+      {
+        "name": "Anti-Rabies Vaccine (ARV)",
+        "date": "2026-01-10",
+        "nextDue": "2027-01-10",
+        "status": "Valid",
+        "vet": "Dr. Sharma"
+      }
+    ]
+  }
+]
